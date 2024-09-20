@@ -1,13 +1,13 @@
-# BPMNml[WIP]
+# BPMNml [WIP]
 
 [English/英語](./README.md) | Japanese/日本語
 
 BPMNmlは、BPMNのマークアップ言語です。文法は当初[Class Digram](https://mermaid.js.org/syntax/classDiagram.html)にインスパイアされました。
 [Mermaid](https://mermaid.js.org/)への対応を目指しています。
 
-## Demo
+## デモ
 
-* [BPMNml in langium playground](https://langium.org/playground?grammar=OYJwhgthYgBAQgBQLIQDYCgMHpu0P0MgPwyD7DIFMMg1wzmHmB2DIFnaglf4YAuApiBAJYB2YasASQAiALljYA2mAC0ALwCC0gFoB9ALpS5ipQAZpATnUAqbAG4W7Lr34BlACoAlAQDkA4mOwAiABQSAep4AOiCB3GoAlEaeeAA%2B4gDkvn7xwaERRvFmFhw8fILOdrAgrMwAriDcAM6w3KUQAEbsHhJ6%2BmoA1FkYABacACZ9rNywbDnWsADqNh6BlZ3mvQNDI5a5tgAyKgDCAPLIyACiBTPYgZJ%2BocFqJgv9g8OjVnnIm7v7R3YngUb%2BRtff7SS2D%2Bv3%2BRnakTOXVwsEAFQyAZ4ZABMMgCuGajUDBDZggACeCBQzmQAHtBmgRBhYBTYKw0KwIJi5gBeJDIZwHGl07jMIzmHB4ZnOQCBkYACX3oTH5bNpmLJlNgzmJrFgcS2hM5YB47EVsGV3G4rAAxsxOCqeTDAHMMhEAkww0QC9RoBDGMYGDlg2llIOADdMZq7GBKgBrTWuMBsADuYGxJrwgBKGQCbDEjRRh3VLyZT4qwPZz4jVIKwGcJYN54gAeQuZtOYuzYgAOOcTnIr1dg8QAfE34uEAPwR2AxuOAOi9AHoZ8drzHrrBdFMqzBgzFgDMbk%2BnmZiyYpQz6s8ba6XK9gPEerD6nCDCrn8T3lgPR7Y8S7%2BEAnQyAeoZ496-ePG1O-ZneHTc0Iu4AmhkIRFADKGQByhkjeNAxDMM33iYBj1DbEv2zX98yLEtYHg6DsVHBkoNYRDR0bFs207LAYUAkDwJoAdIIQsNRzfVgAA89TQUpKk4D0N1TVj2M4j1txlSsYD4Gl%2BFPETwDQcShMpHg2I4riT0bBT%2BOUm9yLwQBmhnhQAxhlIG17SYbUp3VEA30QQlCX4OJ1jAXUu0AdYZqHjKybNgytrLQZCfzzeIAG94h3GVqUlTlGXFdlMSMHd4gAX003lYEAG4ZCHheN7N1WC0Ac1hfJzfygpCykwo5ZhIvxCVytimUEqSmFAFLjQAs33jbVdQNI1uDfSpCXKPUcwkJ0x2ENQ0OkaRW01eIADoZqmuJ4gmtsRhgYASgZIb5REUa0JETNcsaNAGXsJw3A7cwgA&content=KYN2DsBcAIGVIIYCdIFExWgHiwZ0SgHyEBQiuA1tACoKUCCJA5gpMAO4ICe0AIsAGMAlriEB7cAAUxQzDmAAPAQBsArqLDEydKrUoAhbZRo6AwiVAQYqcABN0V7Fgi2tJeMjQYYAWh%2BETBhI9CnpoPwD%2BYVEJaVlIEiiRcSkZTAjAin1oAC5oACIuYFx8xMFk2LTff0zTXILwMVKQ7Iybe29gs3Ca9ocoEhIABzExZWgAM3xpMegAbxJoJehlBHBgSfwAGTWNheWD6EtMDxQARid8Ty1D5ePrOwAmJxcb27gCSDO2p8XlgF8SP8gA)
+* [BPMNml in langium playground](https://langium.org/playground?grammar=OYJwhgthYgBAQgBQLIDkIBsBQWD0vYALAF2IAcBnALn2AEtjCBXAIwDoBjAewlwgFMQ0OgBMAtACsKfQcJG4WGLi1wj%2BAN35KyuMmA4BrMMH7S9ICoNwUQHXBjAA7YE2P9c3KF0ceeEb2wOznRMEHgEdBBkXCDEsABEbGy%2BXj6e-o7xANxYdI7EggBm%2BvywAMJ%2B3rAA3liwsPocACKmHCAA-FSwFMQgecA59Y0AKgwY-J3dvf2DsMRjE109fc45AL44heDAAvmwo8TjAIKOIkccHKYUdCx0GAx0plR1sAAUr40tFG0AvEdlZQA%2Bk0AKIAZTKACVYAAfBoXA7jP4AwHDACSwwAMiDYXMFj90ViQQBKWAggDymOJAGosDksFtjLs4hTMbAQPxiEwQI4KFMVsBnvVUCCAOqYtEi6m4ikAMTpOAKQjyYAwsBF4slIK6uAAOh1dT4ckqICq1f8gaCIZCdQBtXVxAC6ACpPq0QK9Ovanc6qK9bQA9Q36l3tT0-ACkEeJMMDwZALpjuoozuq-oDa0Ta2JuGNsjNsAtqIx2LtDtgLpGC29Fd9nqocccIedYfakejsaDTYTzpzeeVjlV%2BxL2tguBrLvmh349YnjebrfbMbnXebML7OEIojUjjm%2BcHatFAAkMeDEP9R%2BPy47qbmsFuRDu9wOhwBNI7ITE6sQ-ifO-XtIas66mCyahgBhrEu0P5iPWEGODCnoAIQgcSG4Pk%2BJoFk0aKQiCZTogAapef5RtU9qgRQoZrFGcEGghyGoeh278LuWEHrAYKSgA4tigISiKgJlOSyDICCqDDGWPpRvOPZ3vgsDpN4OCsb0ACeCAoKgQr1OqYoCSCzovPU8QsGQECOGILCcmA8TGW89kagZzr7AsJxnBcVw3HcDymJpaDIFwagYEZum4k5WouUgAVBVo9lwhFIqhbpxIKuEsAtIUeSlOxQ4gEw4wUFguVqmiTR2mAYgAF5HGIABagKOralU1fVAAMYgAJyNc6d4lZxwyQjxOrxOm8T6oajrEs68QEHCuAAOTpgtE2OFNzoLX1%2B5DpKwzspy3K8rAjihNZIB2h1nU3ne94sWx22HmCOrJre9IKSC%2BQgBp%2BXjFg0WoIFwU6fUWj8MyFDUj8-0guMzLOm9BCZXkDxVFwhT%2BagsCg%2BDf1aTDYOqcD6qxbiFT5GA2VwHCZOOPwHDzN4COFiwyz6HEahZY4KO7mjDTHbFWCoLFRMgpoexwsMYAUAYuLcWABQAO5gGpTNI1zDM8%2BjThY2LxBYKLhP2QtGiqQtx2QPwPxlW8C0ADy22bJv5MMalkJbBvO67pQLQAfD7C1Qar-Cc9zsC807cTEF7RUe8QLtu0TPQwHEPywAtSexGbML2axIiwKnxunFn9l5Ca-AiHQ8ulAXpeyOXlcFAtQchxrYda3MUsGFgkvS0TC3EJ3ZuDgIVtNM3yOt7zYCwMAVdK2pWBy4ryt97Py9qUPFujzb9tm2v-Dz-HltLwfytH2nfsB%2B04-q3QqPo-v89zNHi9z2fXtE-wAAeHAYEw1yaHzmnb%2Bv9-50E0MXMK5hVTjDVAXaBGBYGQN0nkUBADq5p1QX-dBTccAKSOCzXobNYAcwnnfTWfNuDk0plgMmA9KZE0QFwLgao4SYicPwG%2Bocp6wGiCwrATCWF9z4RgTeI9rYLWqAteyYVsaqQhlDPGsNVLJXqAtNYuD0pq24e3II-AsDsNpn3PRYjLYSKkTI3Scj8gKOhso-Iqi04aK4ZPduVDab03IbQ7wHiNaJy4NyS4PxbRCzUFQMqjobY-n9riBaSQYlwgWj%2BAOHcQAmGIME0J-BwlNEia8BaVAzYOGshgH4YJBo8UDkAA&content=LQhQBcEtwGwUwFwAIBCAFAsgOSQZwIYC2ADvKCMKKAEbGEB2w1c4%2BoSHScAbnPeEgDKrAE7gAor35IAPDNyjwAPiXtOrXAGskAFXxaAgmo4BzfODgB3fAE8kAETgBjSLkgB7emneRpcuAAeTjAArm68KsZIGtp6WihRMbr6mgDCUTx8AuL0ACaSWbIyfLmRUcL4YgXSIErJhlFxmgZItQ7Orh5ePvxRji5unt6%2BAm1NKEjIAEQ2cLhTfR2D3SOtwHVNqZNIU-TuC5z1mhNtOflS4I0pW6d51ZdRxO7uMEgAZgreL0gA3lGHMHw9Dg7wUABkgSC-ocYZxMtIKmIAIxFBSVZSqWGw%2BHZPIAJiKJUiWJhAFJSUgsHA4LlcEh8LkAFZhcCEQr6JBOTzApxQTx0yogmCQQjQGnRdzRAAWINwXOIcH%2BWMR4BRt1yeKVHAAvlFtUA)
 
 ## Goal
 
@@ -15,35 +15,78 @@ BPMNmlは、BPMNのマークアップ言語です。文法は当初[Class Digram
 * [ ] Mermaidにマージ
 * [ ] BPMN XMLのコード生成
 
-## 内容
+## 例
 
 ```BPMNml
-event StartEvent <<start>>
-task TaskA
-gateway DecisionPoint <<exclusive>>
-task TaskB
-task TaskC
-event EndEvent <<end>>
+---
+title: BPMN デモ
+---
 
-StartEvent --> TaskA
-TaskA --> DecisionPoint
-DecisionPoint --> TaskB : "yes"
-DecisionPoint --> TaskC : "no"
-TaskB --> EndEvent
-TaskC --> EndEvent
+bpmn-beta
+    event StartEvent <<start>>
+    task TaskA
+    gateway DecisionPoint <<exclusive>>
+    task TaskB
+    task TaskC
+    event EndEvent <<end>>
 
-pool fstPool {
-    lane fstLane {
-        event Start1 <<start>>
-        event End2 <<end>>
-        %% コネクションの設定がスコープ内に限定されるため要修正
-        Start1 --> End2
+    StartEvent --> TaskA
+    TaskA --> DecisionPoint
+    DecisionPoint --> TaskB : "yes"
+    DecisionPoint --> TaskC : "no"
+    TaskB --> EndEvent
+    TaskC --> EndEvent
+
+    pool fstPool {
+        lane fstLane {
+            event Start1 <<start>>
+            event End2 <<end>>
+            %% コネクションの設定がスコープ内に限定されるため要修正
+            Start1 --> End2
+        }
     }
-}
 ```
 
 ```langium
 grammar BPMNml
+
+// from https://github.com/mermaid-js/mermaid/blob/develop/packages/parser/src/language/common/common.langium
+// import "../common/common";
+interface Common {
+  accDescr?: string;
+  accTitle?: string;
+  title?: string;
+}
+
+fragment TitleAndAccessibilities:
+  ((accDescr=ACC_DESCR | accTitle=ACC_TITLE | title=TITLE) EOL)+
+;
+
+fragment EOL returns string:
+  NEWLINE+ | EOF
+;
+
+terminal NEWLINE: /\r?\n/;
+terminal ACC_DESCR: /[\t ]*accDescr(?:[\t ]*:([^\n\r]*?(?=%%)|[^\n\r]*)|\s*{([^}]*)})/;
+terminal ACC_TITLE: /[\t ]*accTitle[\t ]*:(?:[^\n\r]*?(?=%%)|[^\n\r]*)/;
+terminal TITLE: /[\t ]*title(?:[\t ][^\n\r]*?(?=%%)|[\t ][^\n\r]*|)/;
+
+hidden terminal WHITESPACE: /[\t ]+/;
+hidden terminal YAML: /---[\t ]*\r?\n(?:[\S\s]*?\r?\n)?---(?:\r?\n|(?!\S))/;
+hidden terminal DIRECTIVE: /[\t ]*%%{[\S\s]*?}%%(?:\r?\n|(?!\S))/;
+hidden terminal SINGLE_LINE_COMMENT: /[\t ]*%%[^\n\r]*/;
+// common
+
+// エントリールール
+entry BPMN:
+    NEWLINE*
+    "bpmn-beta"
+    (
+    NEWLINE* TitleAndAccessibilities BPMNModel*
+    | NEWLINE* BPMNModel
+    | NEWLINE*
+    )
+;
 
 // ターミナルルールの定義
 terminal ID: /[a-zA-Z_][a-zA-Z0-9_]*/;
@@ -51,11 +94,8 @@ terminal STRING: /"([^"\r\n])*"/ | /'([^'\r\n])*'/;
 terminal INT returns number: /[0-9]+/;
 
 hidden terminal WS: /\s+/;
-hidden terminal SL_COMMENT: /\/\/[^\n\r]*/;
-hidden terminal ML_COMMENT: /\/\*[^*]*\*+([^/*][^*]*\*+)*\//;
 
-// エントリールール
-entry BPMNModel:
+BPMNModel:
     elements+=BPMNElement*;
 
 // BPMN要素の定義
@@ -109,7 +149,6 @@ Lane:
 // 接続の定義
 Connection:
     source=[Node:ID] ('-->' | '..>' | '--') target=[Node:ID] (':' label=STRING)?;
-
 ```
 
 ## 参考

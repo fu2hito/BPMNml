@@ -7,7 +7,7 @@ It aims to be compatible with [Mermaid](https://mermaid.js.org/).
 
 ## Demo
 
-* [BPMNml in langium playground](https://langium.org/playground/?grammar=OYJwhgthYgBAQgBQLIDkIBsBQWD0vZB%2BhkB%2BGQfYZAphkGuGS4ywOwZAs7UEr-LAFwFMQIBLAOzAywAkgBEAXLFwBtMAFoAXgEFZALQD6AXRkLlKgAyyAnJoBUuANxtOPfoIDKAFQBKQ1AHEJuAEQAKKQD0vAB0QIN4NAEoTLwIAH0kAcj9-BJCwyJMEiysuPgFhVAdYEHZWAFcQXgBnWF4yiAAjTk8pA0MNAGpsrAALbgATfvZeWA5c21gAdTtPIKquyz7B4dHrPPsAGTUAYQB5ZGQAUULZ3CDpfzCQjTNFgaGRsZt85C29g%2BOHU6CTAJMbn4dZK4f5-AEmDpRc7dfCwQAVDIBnhkAEwyAK4ZaLQsMNWCAAJ4IFCoZAAeyGGDEWFglNg7Aw7AgWPmAF4kGhDrT6bxWCZLHgCCzUIBAyMABL6MFj8tl0rHkqmwVAk9iweLbImcsB8TiK2DK3i8dgAY1Y3BVPNhgDmGYiASYY6IBeo0AhjHMLByobSqmHABuWM1DjAVQA1pq3GAOAB3MA4k0EQAlDIBNhmRoqw7qlFKpCXYHs5CVqkHYjNEsB8CQAPIXM2msQ4cQAHHOJzkV6uwBIAPibCQiAH4I7AY3HAHRegD0M%2BO11j19guylVVgwViwRmNyfTzOxZOU4b9WeNtdLlewPhPdj9bhBhVzhJ76wHo8cBJdwiAToZAPUM8e9fvHjanfsz-HpuZEXcATQzEEigBlDIA5QyRvGgYhmGb4JMAx6hjiX7Zr%2B%2BZFiWsDwdBOKjoyUHsIho6Ni2badjgsKASB4F0AOkEIWGo5vuwAAeeoYGUVTcB6G6pqx7GcR624ypWMACLSginiJ4AYOJQlUnwbEcVxJ6Ngp-HKTe5EEIAzQwIoAYwzkDa9osNqU7qiAb6IESRKCPEGxgLqXaAOsMtDxlZNmwZW1kYMhP55gkADeCQ7jKNKSpyTLiuyWImDuCQAL6abysCADcMxAIvG9m6rBGAOewvk5v5QUhVSYUcqwkUEhK5WxTKCVJbCgClxoAWb7xtquoGkavBvlURIVHqOZSE6Y6iBoaGyLIraagkAB0M1TfECQTW2owwMApSMkN8piKNaFiJmuVNBgjKOC47gdpYQA&content=KYN2DsBcAIGVIIYCdIFExWgHiwZ0SgHyEBQiuA1tACoKUCCJA5gpMAO4ICe0AIsAGMAlriEB7cAAUxQzDmAAPAQBsArqLDEydKrUoAhbZRo6AwiVAQYqcABN0V7Fgi2tJeMjQYYAWh%2BETBhI9CnpoPwD%2BYVEJaVlIEiiRcSkZTAjAin1oAC5oACIuYFx8xMFk2LTff0zTXILwMVKQ7Iybe29gs3Ca9ocoEhIABzExZWgAM3xpMegAbxJoJehlBHBgSfwAGTWNheWD6EtMDxQARid8Ty1D5ePrOwAmJxcb27gCSDO2p8XlgF8SP8gA)
+* [BPMNml in langium playground](https://langium.org/playground?grammar=OYJwhgthYgBAQgBQLIDkIBsBQWD0vYALAF2IAcBnALn2AEtjCBXAIwDoBjAewlwgFMQ0OgBMAtACsKfQcJG4WGLi1wj%2BAN35KyuMmA4BrMMH7S9ICoNwUQHXBjAA7YE2P9c3KF0ceeEb2wOznRMEHgEdBBkXCDEsABEbGy%2BXj6e-o7xANxYdI7EggBm%2BvywAMJ%2B3rAA3liwsPocACKmHCAA-FSwFMQgecA59Y0AKgwY-J3dvf2DsMRjE109fc45AL44heDAAvmwo8TjAIKOIkccHKYUdCx0GAx0plR1sAAUr40tFG0AvEdlZQA%2Bk0AKIAZTKACVYAAfBoXA7jP4AwHDACSwwAMiDYXMFj90ViQQBKWAggDymOJAGosDksFtjLs4hTMbAQPxiEwQI4KFMVsBnvVUCCAOqYtEi6m4ikAMTpOAKQjyYAwsBF4slIK6uAAOh1dT4ckqICq1f8gaCIZCdQBtXVxAC6ACpPq0QK9Ovanc6qK9bQA9Q36l3tT0-ACkEeJMMDwZALpjuoozuq-oDa0Ta2JuGNsjNsAtqIx2LtDtgLpGC29Fd9nqocccIedYfakejsaDTYTzpzeeVjlV%2BxL2tguBrLvmh349YnjebrfbMbnXebML7OEIojUjjm%2BcHatFAAkMeDEP9R%2BPy47qbmsFuRDu9wOhwBNI7ITE6sQ-ifO-XtIas66mCyahgBhrEu0P5iPWEGODCnoAIQgcSG4Pk%2BJoFk0aKQiCZTogAapef5RtU9qgRQoZrFGcEGghyGoeh278LuWEHrAYKSgA4tigISiKgJlOSyDICCqDDGWPpRvOPZ3vgsDpN4OCsb0ACeCAoKgQr1OqYoCSCzovPU8QsGQECOGILCcmA8TGW89kagZzr7AsJxnBcVw3HcDymJpaDIFwagYEZum4k5WouUgAVBVo9lwhFIqhbpxIKuEsAtIUeSlOxQ4gEw4wUFguVqmiTR2mAYgAF5HGIABagKOralU1fVAAMYgAJyNc6d4lZxwyQjxOrxOm8T6oajrEs68QEHCuAAOTpgtE2OFNzoLX1%2B5DpKwzspy3K8rAjihNZIB2h1nU3ne94sWx22HmCOrJre9IKSC%2BQgBp%2BXjFg0WoIFwU6fUWj8MyFDUj8-0guMzLOm9BCZXkDxVFwhT%2BagsCg%2BDf1aTDYOqcD6qxbiFT5GA2VwHCZOOPwHDzN4COFiwyz6HEahZY4KO7mjDTHbFWCoLFRMgpoexwsMYAUAYuLcWABQAO5gGpTNI1zDM8%2BjThY2LxBYKLhP2QtGiqQtx2QPwPxlW8C0ADy22bJv5MMalkJbBvO67pQLQAfD7C1Qar-Cc9zsC807cTEF7RUe8QLtu0TPQwHEPywAtSexGbML2axIiwKnxunFn9l5Ca-AiHQ8ulAXpeyOXlcFAtQchxrYda3MUsGFgkvS0TC3EJ3ZuDgIVtNM3yOt7zYCwMAVdK2pWBy4ryt97Py9qUPFujzb9tm2v-Dz-HltLwfytH2nfsB%2B04-q3QqPo-v89zNHi9z2fXtE-wAAeHAYEw1yaHzmnb%2Bv9-50E0MXMK5hVTjDVAXaBGBYGQN0nkUBADq5p1QX-dBTccAKSOCzXobNYAcwnnfTWfNuDk0plgMmA9KZE0QFwLgao4SYicPwG%2Bocp6wGiCwrATCWF9z4RgTeI9rYLWqAteyYVsaqQhlDPGsNVLJXqAtNYuD0pq24e3II-AsDsNpn3PRYjLYSKkTI3Scj8gKOhso-Iqi04aK4ZPduVDab03IbQ7wHiNaJy4NyS4PxbRCzUFQMqjobY-n9riBaSQYlwgWj%2BAOHcQAmGIME0J-BwlNEia8BaVAzYOGshgH4YJBo8UDkAA&content=LQhQBcEtwGwUwFwAIBCAFAsgOSQZwIYC2ADvKCMKKAEbGEB2w1c4%2BoSHScAbnPeEgDKrAE7gAor35IAPDNyjwAPiXtOrXAGskAFXxaAgmo4BzfODgB3fAE8kAETgBjSLkgB7emneRpcuAAeTjAArm68KsZIGtp6WihRMbr6mgDCUTx8AuL0ACaSWbIyfLmRUcL4YgXSIErJhlFxmgZItQ7Orh5ePvxRji5unt6%2BAm1NKEjIAEQ2cLhTfR2D3SOtwHVNqZNIU-TuC5z1mhNtOflS4I0pW6d51ZdRxO7uMEgAZgreL0gA3lGHMHw9Dg7wUABkgSC-ocYZxMtIKmIAIxFBSVZSqWGw%2BHZPIAJiKJUiWJhAFJSUgsHA4LlcEh8LkAFZhcCEQr6JBOTzApxQTx0yogmCQQjQGnRdzRAAWINwXOIcH%2BWMR4BRt1yeKVHAAvlFtUA)
 
 ## Goal
 
@@ -18,32 +18,75 @@ It aims to be compatible with [Mermaid](https://mermaid.js.org/).
 ## Example
 
 ```BPMNml
-event StartEvent <<start>>
-task TaskA
-gateway DecisionPoint <<exclusive>>
-task TaskB
-task TaskC
-event EndEvent <<end>>
+---
+title: BPMN sample
+---
 
-StartEvent --> TaskA
-TaskA --> DecisionPoint
-DecisionPoint --> TaskB : "yes"
-DecisionPoint --> TaskC : "no"
-TaskB --> EndEvent
-TaskC --> EndEvent
+bpmn-beta
+    event StartEvent <<start>>
+    task TaskA
+    gateway DecisionPoint <<exclusive>>
+    task TaskB
+    task TaskC
+    event EndEvent <<end>>
 
-pool fstPool {
-    lane fstLane {
-        event Start1 <<start>>
-        event End2 <<end>>
-        %% Needs adjustment as connections are limited to the scope
-        Start1 --> End2
+    StartEvent --> TaskA
+    TaskA --> DecisionPoint
+    DecisionPoint --> TaskB : "yes"
+    DecisionPoint --> TaskC : "no"
+    TaskB --> EndEvent
+    TaskC --> EndEvent
+
+    pool fstPool {
+        lane fstLane {
+            event Start1 <<start>>
+            event End2 <<end>>
+            %% Needs adjustment as connections are limited to the scope
+            Start1 --> End2
+        }
     }
-}
 ```
 
 ```langium
 grammar BPMNml
+
+// from https://github.com/mermaid-js/mermaid/blob/develop/packages/parser/src/language/common/common.langium
+// import "../common/common";
+interface Common {
+  accDescr?: string;
+  accTitle?: string;
+  title?: string;
+}
+
+fragment TitleAndAccessibilities:
+  ((accDescr=ACC_DESCR | accTitle=ACC_TITLE | title=TITLE) EOL)+
+;
+
+fragment EOL returns string:
+  NEWLINE+ | EOF
+;
+
+terminal NEWLINE: /\r?\n/;
+terminal ACC_DESCR: /[\t ]*accDescr(?:[\t ]*:([^\n\r]*?(?=%%)|[^\n\r]*)|\s*{([^}]*)})/;
+terminal ACC_TITLE: /[\t ]*accTitle[\t ]*:(?:[^\n\r]*?(?=%%)|[^\n\r]*)/;
+terminal TITLE: /[\t ]*title(?:[\t ][^\n\r]*?(?=%%)|[\t ][^\n\r]*|)/;
+
+hidden terminal WHITESPACE: /[\t ]+/;
+hidden terminal YAML: /---[\t ]*\r?\n(?:[\S\s]*?\r?\n)?---(?:\r?\n|(?!\S))/;
+hidden terminal DIRECTIVE: /[\t ]*%%{[\S\s]*?}%%(?:\r?\n|(?!\S))/;
+hidden terminal SINGLE_LINE_COMMENT: /[\t ]*%%[^\n\r]*/;
+// common
+
+// Entry rule
+entry BPMN:
+    NEWLINE*
+    "bpmn-beta"
+    (
+    NEWLINE* TitleAndAccessibilities BPMNModel*
+    | NEWLINE* BPMNModel
+    | NEWLINE*
+    )
+;
 
 // Define terminal rules
 terminal ID: /[a-zA-Z_][a-zA-Z0-9_]*/;
@@ -51,11 +94,8 @@ terminal STRING: /"([^"\r\n])*"/ | /'([^'\r\n])*'/;
 terminal INT returns number: /[0-9]+/;
 
 hidden terminal WS: /\s+/;
-hidden terminal SL_COMMENT: /\/\/[^\n\r]*/;
-hidden terminal ML_COMMENT: /\/\*[^*]*\*+([^/*][^*]*\*+)*\//;
 
-// Entry rule
-entry BPMNModel:
+BPMNModel:
     elements+=BPMNElement*;
 
 // Definition of BPMN elements
